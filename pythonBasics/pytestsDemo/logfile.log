@@ -1,0 +1,17 @@
+2019-10-27 17:01:54,259 :INFO : pytestsDemo.BaseClass :Rahul
+2019-10-27 17:01:54,264 :INFO : pytestsDemo.BaseClass :rahulshettyacademy.com
+2019-10-27 17:09:20,863 :INFO : test_editProfile :Rahul
+2019-10-27 17:09:20,863 :INFO : test_editProfile :rahulshettyacademy.com
+2019-10-27 17:11:11,713 :INFO : test_editProfile :Rahul
+2019-10-27 17:11:11,713 :INFO : test_editProfile :rahulshettyacademy.com
+2019-10-27 17:11:11,737 :CRITICAL : pytestsDemo.test_logging :Critical issue
+2020-05-12 11:09:51,352 :INFO : test_editProfile :Rahul
+2020-05-12 11:09:51,352 :INFO : test_editProfile :rahulshettyacademy.com
+2020-05-12 11:09:51,367 :CRITICAL : pytestsDemo.test_logging :Critical issue
+2020-05-12 11:12:23,194 :INFO : test_editProfile :Rahul
+2020-05-12 11:12:23,194 :INFO : test_editProfile :rahulshettyacademy.com
+2020-05-12 11:12:23,218 :CRITICAL : pytestsDemo.test_logging :Critical issue
+2020-05-13 09:09:04,808 :INFO : test_editProfile :Rahul
+2020-05-13 09:09:04,820 :INFO : test_editProfile :rahulshettyacademy.com
+2020-05-13 09:11:07,677 :INFO : test_editProfile :Rahul
+2020-05-13 09:11:07,677 :INFO : test_editProfile :rahulshettyacademy.com

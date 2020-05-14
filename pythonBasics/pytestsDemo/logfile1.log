@@ -1,0 +1,9 @@
+2020-05-13 08:59:11,415 :INFO : pytestsDemo.test_logging :Information statement
+2020-05-13 08:59:11,415 :WARNING : pytestsDemo.test_logging :Something is in warning mode
+2020-05-13 08:59:11,415 :ERROR : pytestsDemo.test_logging :A Major error has happend
+2020-05-13 08:59:11,416 :CRITICAL : pytestsDemo.test_logging :Critical issue
+2020-05-13 08:59:58,550 :INFO : pytestsDemo.test_logging :Information statement
+2020-05-13 08:59:58,550 :WARNING : pytestsDemo.test_logging :Something is in warning mode
+2020-05-13 08:59:58,550 :ERROR : pytestsDemo.test_logging :A Major error has happend
+2020-05-13 08:59:58,551 :CRITICAL : pytestsDemo.test_logging :Critical issue
+2020-05-13 09:00:24,505 :CRITICAL : pytestsDemo.test_logging :Critical issue
